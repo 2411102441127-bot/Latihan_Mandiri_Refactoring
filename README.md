@@ -1,5 +1,5 @@
 # Latihan_Mandiri_Refactoring
-[20.34, 12/12/2025] Ikaaa: # Refactoring Sistem Validasi Registrasi Mahasiswa
+# Refactoring Sistem Validasi Registrasi Mahasiswa
 
 ## 1. Analisis Pelanggaran SOLID
 
